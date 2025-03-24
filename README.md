@@ -6,8 +6,9 @@ Servers can be found in their respective folders (Protocol 335 for 1.12 and prot
 
 See [wiki.vg](https://wiki.vg/Protocol_version_numbers#:~:text=1.12.2-,340,-page) protocol version numbers for more information.
 
+
 ## How do I use this?
-Basically, fork it, and run `java -jar bungee.jar` and `java -jar server.jar` in the corresponding folders, and it will run your very own Eaglercraft 1.12 server!
+java -jar bungee.jarBasically, fork it, and run `java -jar bungee.jar` and `java -jar paper-1.12.2-1620.jar` in the corresponding folders, and it will run your very own Eaglercraft 1.12 server!
 
 Use the paper jar instead of the default server jar for 1.12.2
 

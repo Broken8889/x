@@ -1,0 +1,19 @@
+border-normal: 1000
+border-middle: 3000
+border-far: 5000
+rtp-cords: true
+rtp-cords-msg: <SOLID:FF0080>u tp to /cordx and /cordz
+tp-world: world
+rtp-msg-enabled: true
+rtp-msg: /n-----------------------------/n<SOLID:FF0080>rtp is done/n-----------------------------
+rtp-normal-cooldown: 10
+rtp-middle-cooldown: 60
+rtp-far-cooldown: 120
+rtp-cooldown-message: u can use it after /time sec
+rtp-title-enabled: true
+rtp-title: MORE RTP
+rtp-subtitle: <GRADIENT:2C08BA>u tp to /cordx and /cordz</GRADIENT:028A97>
+rtp-menu-title: <GRADIENT:2C08BA>RTP MENU</GRADIENT:2C08BA>
+rtp-menu-rtp-name-normal: Normal rtp
+rtp-menu-rtp-name-middle: Middle rtp
+rtp-menu-rtp-name-far: Far rtp

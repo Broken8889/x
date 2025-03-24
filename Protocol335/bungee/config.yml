@@ -17,7 +17,7 @@ listeners:
   force_default_server: true
 remote_ping_cache: -1
 network_compression_threshold: 256
-permissions:
+permissions:t
   default:
   - bungeecord.command.server
   - bungeecord.command.list
